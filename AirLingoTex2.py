@@ -2,7 +2,7 @@ import streamlit as st
 import json
 import pandas as pd
 
-#IMPORTATION DU MODELE PEFT-T5
+#IMPORTATION DU MODELE PEFT-T5-base
 
 from transformers import T5ForConditionalGeneration, T5Tokenizer
 
